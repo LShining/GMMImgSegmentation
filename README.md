@@ -9,7 +9,7 @@ This is done by:
 ### K=3 Case
 #### Picture converted into rg space
 ![k=3](K=3/poi.jpg)
-#### Greyscale pictures reflect how likely(the possibility)that a pixel will lay in one Gaussian component.
+#### Greyscale pictures reflect how likely(the possibility) that a pixel may lay in one Gaussian component.
 + White: More likely 
 + Black: Less likely
 
@@ -18,13 +18,13 @@ This is done by:
 ![K=3](K=3/class.png)
 
 ### K=4 Case
-#### Greyscale pictures reflect how likely(the possibility)that a pixel will lay in one Gaussian component.
+#### Greyscale pictures
 ![K=4](K=4/Greyscale0.png) ![K=4](K=4/Greyscale1.png) ![K=4](K=4/Greyscale2.png) ![K=4](K=4/Greyscale3.png)
 #### Color distribution and Gaussians fitted
 ![K=4](K=4/class.png)
 
 ### K=5 Case(notice the over-fit)
-#### Greyscale pictures reflect how likely(the possibility)that a pixel will lay in one Gaussian component.
+#### Greyscale pictures
 ![K=5](K=5/Greyscale0.png) ![K=5](K=5/Greyscale1.png) ![K=5](K=5/Greyscale2.png) ![K=5](K=5/Greyscale3.png) ![K=5](K=5/Greyscale4.png)
 #### Color distribution and Gaussians fitted
 +Notice the tiny green located in blue area
